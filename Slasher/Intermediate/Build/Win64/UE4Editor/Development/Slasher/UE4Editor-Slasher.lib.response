@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Slasher.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\SlasherEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Slasher.cpp.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\SlasherCharacter.cpp.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\SlasherGameMode.cpp.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Slasher.init.gen.cpp.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\SlasherCharacter.gen.cpp.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\SlasherGameMode.gen.cpp.obj"
+"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Default.rc2.res"
+/OUT:"I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\UE4Editor-Slasher.lib"
+/INCLUDE:IMPLEMENT_MODULE_Slasher

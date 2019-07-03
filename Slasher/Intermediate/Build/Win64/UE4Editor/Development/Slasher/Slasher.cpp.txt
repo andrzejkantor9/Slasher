@@ -1,0 +1,2 @@
+I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Definitions.Slasher.h
+i:\aaa - pulpit\projekty\programowanie\c++ gamedev\kurs udemy\slasher\slasher\source\slasher\Slasher.h
