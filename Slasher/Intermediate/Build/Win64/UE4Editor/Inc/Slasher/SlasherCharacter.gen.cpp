@@ -67,6 +67,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasherCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASlasherCharacter_Statics::NewProp_BaseLookUpRate_MetaData[] = {
 		{ "Category", "Camera" },
+		{ "Comment", "/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */" },
 		{ "ModuleRelativePath", "SlasherCharacter.h" },
 		{ "ToolTip", "Base look up/down rate, in deg/sec. Other scaling may affect final rate." },
 	};
@@ -75,6 +76,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasherCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASlasherCharacter_Statics::NewProp_BaseTurnRate_MetaData[] = {
 		{ "Category", "Camera" },
+		{ "Comment", "/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */" },
 		{ "ModuleRelativePath", "SlasherCharacter.h" },
 		{ "ToolTip", "Base turn rate, in deg/sec. Other scaling may affect final turn rate." },
 	};
@@ -84,6 +86,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasherCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASlasherCharacter_Statics::NewProp_FollowCamera_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Follow camera */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SlasherCharacter.h" },
 		{ "ToolTip", "Follow camera" },
@@ -94,6 +97,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasherCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASlasherCharacter_Statics::NewProp_CameraBoom_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Camera boom positioning the camera behind the character */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SlasherCharacter.h" },
 		{ "ToolTip", "Camera boom positioning the camera behind the character" },
@@ -133,7 +137,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasherCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASlasherCharacter, 923489602);
+	IMPLEMENT_CLASS(ASlasherCharacter, 2955452656);
 	template<> SLASHER_API UClass* StaticClass<ASlasherCharacter>()
 	{
 		return ASlasherCharacter::StaticClass();

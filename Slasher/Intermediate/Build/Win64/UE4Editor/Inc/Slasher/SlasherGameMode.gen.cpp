@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasherGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASlasherGameMode, 667447712);
+	IMPLEMENT_CLASS(ASlasherGameMode, 3108710750);
 	template<> SLASHER_API UClass* StaticClass<ASlasherGameMode>()
 	{
 		return ASlasherGameMode::StaticClass();

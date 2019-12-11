@@ -1,0 +1,6 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher).
+  Parsing headers for SlasherEditor
+    Running UnrealHeaderTool "I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Slasher.uproject" "I:\aaa - pulpit\projekty\Programowanie\C++ gamedev\kurs udemy\Slasher\Slasher\Intermediate\Build\Win64\SlasherEditor\Development\SlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SlasherEditor in 6,8779012 seconds
+  Target is up to date
+  Total execution time: 7,85 seconds

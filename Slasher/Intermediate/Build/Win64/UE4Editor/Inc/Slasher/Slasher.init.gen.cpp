@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeSlasher_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xC2016A4A,
+				0x31EAC069,
 				0xFCD80FCB,
 				METADATA_PARAMS(nullptr, 0)
 			};
