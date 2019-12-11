@@ -74,6 +74,8 @@ void ASlasherCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerI
 
 	// VR headset functionality
 	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &ASlasherCharacter::OnResetVR);
+
+	GetCharacterMovement()->JumpZVelocity = 400.f;
 }
 
 
